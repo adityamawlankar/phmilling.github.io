@@ -26,7 +26,7 @@ em{
   font-style: italic;
 }
 .main-content {
-  background: #f7f7f7;
+  background: #ffffff;
 }
 
 .main-content .container-main {
@@ -40,7 +40,7 @@ em{
 }
 
 .container-main .block-main .content-main {
-  background: #fff none repeat scroll 0 0;
+  background: #ffffff00 none repeat scroll 0 0;
   display: inline-block;
   width: 100%;
 }
